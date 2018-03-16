@@ -1,1 +1,35 @@
-{"sitedata":[{"sitename":"Fly My Community","icon":"/img/favicon.png","logo":"/img/logo-webservices.png","logoname":"Fly My Community","metadesc":"Trusted By Fine Real Estate Professionals","metauthor":"Fly My Community","metakeyword":"cms","footer":"All rights reserved! 2018 WebriQ Pte Ltd"}],"content":[{"email":"JakeSellsHomes@kw.com","logo":"/img/logofly.png","linkcont":"719-310-9973","videoid":"233902824","sliderbg":"/img/slider_bg.jpg","sliderbg_video":"https://player.vimeo.com/video/250014579?background=1","slidertext1":"Discover the Beauty ","slidertext2":"Meridian Ranch","poplink":"//vimeo.com/250014579"}],"about":[{"abouttext1":"Meridian Ranch","abouttext2":"Which do you prefer: Quiet getaway with a friendly, small town vibe? Or an active hub with shops, restaurants and outdoor fun? At Meridian Ranch you don't have to choose. This 2,600–acre new home, golf and recreation community in Colorado Springs keeps you close to life's necessities and pleasures—but feels a world apart from city hassles.  Right in the neighborhood, the award-winning Antler Creek Golf Course is perfect for sharpening your game or just greening up your views. A 42,000–square-foot recreation center, indoor and outdoor pools, parks and trails keep you moving. And the lively CreekView Grill is your go-to spot for everything from post-game drinks to dinner with friends.  This Colorado Springs new home community also offers its own elementary school and high school in the highly respected Falcon School District 49. With close proximity to everything from groceries and dry cleaners to the airport and military bases, Meridian Ranch simplifies your life. And makes room for the things that matter most.","aboutbg":"/img/aboutfly_bg.png"}],"updatedDate":"2018-01-22T09:57:14.183Z"}
+{
+  "about": [
+    {
+      "aboutbg": "/img/aboutfly_bg.png",
+      "abouttext1": "Meridian Ranch",
+      "abouttext2": "Which do you prefer: Quiet getaway with a friendly, small town vibe? Or an active hub with shops, restaurants and outdoor fun? At Meridian Ranch you don't have to choose. This 2,600–acre new home, golf and recreation community in Colorado Springs keeps you close to life's necessities and pleasures—but feels a world apart from city hassles.  Right in the neighborhood, the award-winning Antler Creek Golf Course is perfect for sharpening your game or just greening up your views. A 42,000–square-foot recreation center, indoor and outdoor pools, parks and trails keep you moving. And the lively CreekView Grill is your go-to spot for everything from post-game drinks to dinner with friends.  This Colorado Springs new home community also offers its own elementary school and high school in the highly respected Falcon School District 49. With close proximity to everything from groceries and dry cleaners to the airport and military bases, Meridian Ranch simplifies your life. And makes room for the things that matter most."
+    }
+  ],
+  "content": [
+    {
+      "email": "JakeSellsHomes@kw.com",
+      "linkcont": "719-310-9973",
+      "logo": "/img/logofly.png",
+      "poplink": "//vimeo.com/250014579",
+      "sliderbg": "/img/slider_bg.jpg",
+      "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
+      "slidertext1": "Discover the Beauty ",
+      "slidertext2": "Meridian Ranch",
+      "videoid": "233902824"
+    }
+  ],
+  "sitedata": [
+    {
+      "footer": "All rights reserved! 2018 WebriQ Pte Ltd",
+      "icon": "/img/favicon.png",
+      "logo": "/img/logofly.png",
+      "logoname": "Fly My Community",
+      "metadesc": "Trusted By Fine Real Estate Professionals",
+      "metakeyword": "cms",
+      "metauthor": "Fly My Community",
+      "sitename": "Fly My Community"
+    }
+  ],
+  "updatedDate": "2018-01-22T09:57:14.183Z"
+}
